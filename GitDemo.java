@@ -48,14 +48,6 @@ public class GitDemo {
             factorialNumber = factorialNumber * 10 + temp;
             num /= 10;
         }
-        
- branch2
         return factorialNumber;
-
-        reverseNum = newNumber;
-        
-        return newNumber;
- main
     }
-    
 }
